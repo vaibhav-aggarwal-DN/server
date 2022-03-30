@@ -1,0 +1,254 @@
+[
+  {
+    "name": "Andaman and Nicobar Islands",
+    "active": 2,
+    "recovered": 9902,
+    "deaths": 129,
+    "updated_at": "2022-03-30T17:02:35+05:30"
+  },
+  {
+    "name": "Andhra Pradesh",
+    "active": 314,
+    "recovered": 2304465,
+    "deaths": 14730,
+    "updated_at": "2022-03-30T17:02:35+05:30"
+  },
+  {
+    "name": "Arunachal Pradesh",
+    "active": 0,
+    "recovered": 64188,
+    "deaths": 296,
+    "updated_at": "2022-03-30T17:02:35+05:30"
+  },
+  {
+    "name": "Assam",
+    "active": 1356,
+    "recovered": 716201,
+    "deaths": 6639,
+    "updated_at": "2022-03-30T17:02:35+05:30"
+  },
+  {
+    "name": "Bihar",
+    "active": 30,
+    "recovered": 818178,
+    "deaths": 12256,
+    "updated_at": "2022-03-30T17:02:35+05:30"
+  },
+  {
+    "name": "Chandigarh",
+    "active": 21,
+    "recovered": 90728,
+    "deaths": 1165,
+    "updated_at": "2022-03-30T17:02:35+05:30"
+  },
+  {
+    "name": "Chhattisgarh",
+    "active": 150,
+    "recovered": 1137927,
+    "deaths": 14034,
+    "updated_at": "2022-03-30T17:02:35+05:30"
+  },
+  {
+    "name": "Dadra and Nagar Haveli and Daman and Diu",
+    "active": 0,
+    "recovered": 11437,
+    "deaths": 4,
+    "updated_at": "2022-03-30T17:02:35+05:30"
+  },
+  {
+    "name": "Delhi",
+    "active": 443,
+    "recovered": 1838140,
+    "deaths": 26151,
+    "updated_at": "2022-03-30T17:02:35+05:30"
+  },
+  {
+    "name": "Goa",
+    "active": 27,
+    "recovered": 241428,
+    "deaths": 3830,
+    "updated_at": "2022-03-30T17:02:35+05:30"
+  },
+  {
+    "name": "Gujarat",
+    "active": 150,
+    "recovered": 1212792,
+    "deaths": 10942,
+    "updated_at": "2022-03-30T17:02:35+05:30"
+  },
+  {
+    "name": "Haryana",
+    "active": 339,
+    "recovered": 974166,
+    "deaths": 10616,
+    "updated_at": "2022-03-30T17:02:35+05:30"
+  },
+  {
+    "name": "Himachal Pradesh",
+    "active": 164,
+    "recovered": 280207,
+    "deaths": 4133,
+    "updated_at": "2022-03-30T17:02:35+05:30"
+  },
+  {
+    "name": "Jammu and Kashmir",
+    "active": 142,
+    "recovered": 448798,
+    "deaths": 4750,
+    "updated_at": "2022-03-30T17:02:35+05:30"
+  },
+  {
+    "name": "Jharkhand",
+    "active": 64,
+    "recovered": 429758,
+    "deaths": 5315,
+    "updated_at": "2022-03-30T17:02:35+05:30"
+  },
+  {
+    "name": "Karnataka",
+    "active": 1698,
+    "recovered": 3903651,
+    "deaths": 40052,
+    "updated_at": "2022-03-30T17:02:35+05:30"
+  },
+  {
+    "name": "Kerala",
+    "active": 4387,
+    "recovered": 6459585,
+    "deaths": 67844,
+    "updated_at": "2022-03-30T17:02:35+05:30"
+  },
+  {
+    "name": "Ladakh",
+    "active": 12,
+    "recovered": 27982,
+    "deaths": 228,
+    "updated_at": "2022-03-30T17:02:35+05:30"
+  },
+  {
+    "name": "Lakshadweep",
+    "active": 0,
+    "recovered": 11350,
+    "deaths": 52,
+    "updated_at": "2022-03-30T17:02:35+05:30"
+  },
+  {
+    "name": "Madhya Pradesh",
+    "active": 152,
+    "recovered": 1030197,
+    "deaths": 10734,
+    "updated_at": "2022-03-30T17:02:35+05:30"
+  },
+  {
+    "name": "Maharashtra",
+    "active": 960,
+    "recovered": 7724982,
+    "deaths": 147780,
+    "updated_at": "2022-03-30T17:02:35+05:30"
+  },
+  {
+    "name": "Manipur",
+    "active": 36,
+    "recovered": 134931,
+    "deaths": 2120,
+    "updated_at": "2022-03-30T17:02:35+05:30"
+  },
+  {
+    "name": "Meghalaya",
+    "active": 30,
+    "recovered": 92136,
+    "deaths": 1593,
+    "updated_at": "2022-03-30T17:02:35+05:30"
+  },
+  {
+    "name": "Mizoram",
+    "active": 1101,
+    "recovered": 222476,
+    "deaths": 684,
+    "updated_at": "2022-03-30T17:02:35+05:30"
+  },
+  {
+    "name": "Nagaland",
+    "active": 14,
+    "recovered": 34701,
+    "deaths": 759,
+    "updated_at": "2022-03-30T17:02:35+05:30"
+  },
+  {
+    "name": "Odisha",
+    "active": 394,
+    "recovered": 1278035,
+    "deaths": 9120,
+    "updated_at": "2022-03-30T17:02:35+05:30"
+  },
+  {
+    "name": "Puducherry",
+    "active": 2,
+    "recovered": 163810,
+    "deaths": 1962,
+    "updated_at": "2022-03-30T17:02:35+05:30"
+  },
+  {
+    "name": "Punjab",
+    "active": 135,
+    "recovered": 741218,
+    "deaths": 17741,
+    "updated_at": "2022-03-30T17:02:35+05:30"
+  },
+  {
+    "name": "Rajasthan",
+    "active": 249,
+    "recovered": 1273138,
+    "deaths": 9552,
+    "updated_at": "2022-03-30T17:02:35+05:30"
+  },
+  {
+    "name": "Sikkim",
+    "active": 12,
+    "recovered": 38674,
+    "deaths": 452,
+    "updated_at": "2022-03-30T17:02:35+05:30"
+  },
+  {
+    "name": "Tamil Nadu",
+    "active": 339,
+    "recovered": 3414387,
+    "deaths": 38025,
+    "updated_at": "2022-03-30T17:02:35+05:30"
+  },
+  {
+    "name": "Telangana",
+    "active": 457,
+    "recovered": 786645,
+    "deaths": 4111,
+    "updated_at": "2022-03-30T17:02:35+05:30"
+  },
+  {
+    "name": "Tripura",
+    "active": 1,
+    "recovered": 99952,
+    "deaths": 920,
+    "updated_at": "2022-03-30T17:02:35+05:30"
+  },
+  {
+    "name": "Uttarakhand",
+    "active": 487,
+    "recovered": 429054,
+    "deaths": 7691,
+    "updated_at": "2022-03-30T17:02:35+05:30"
+  },
+  {
+    "name": "Uttar Pradesh",
+    "active": 371,
+    "recovered": 2046775,
+    "deaths": 23494,
+    "updated_at": "2022-03-30T17:02:35+05:30"
+  },
+  {
+    "name": "West Bengal",
+    "active": 665,
+    "recovered": 1995416,
+    "deaths": 21197,
+    "updated_at": "2022-03-30T17:02:35+05:30"
+  }
+]
